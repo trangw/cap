@@ -1,0 +1,9 @@
+month
+count,id
+id,name,deal_size,month
+1,John,100,October
+2,Anna,100,October
+3,John,200,November
+4,Danny,50,October
+5,Jaime,100,November
+6,Anna,100,October
